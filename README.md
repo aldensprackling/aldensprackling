@@ -21,5 +21,3 @@ make them look good. I enjoy experimenting with new technologies and building pr
 - [LinkedIn](https://www.linkedin.com/in/alden-sprackling-4972b8266)
 - [Email](mailto:alden.sprackling.dev@outlook.com)
 
-### ✨ Fun Fact
-I love keeping things simple, both in code and in design, and I’m always exploring new ways to create polished, user-friendly experiences.
